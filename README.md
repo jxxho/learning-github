@@ -7,3 +7,5 @@ Link to the Slides
 
 Please add your name below:
 - Dhrumil Mehta
+- Judy Ho
+
